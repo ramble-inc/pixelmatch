@@ -1,0 +1,16 @@
+{
+  "name": "pixelmatch",
+  "version": "5.2.1",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "build": "pkg src/index.js --output Sources/pixelmatch/pixelmatch --targets node14-macos-x86_64"
+  },
+  "dependencies": {
+    "pixelmatch": "^5.2.1"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.9",
+    "release-it": "^14.4.1"
+  }
+}

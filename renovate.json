@@ -1,0 +1,16 @@
+{
+  "commitMessagePrefix": "chore:",
+  "labels": ["dependencies"],
+  "rangeStrategy": "bump",
+  "rebaseWhen": "behind-base-branch",
+  "timezone": "Asia/Tokyo",
+  "schedule": "after 7:00 pm on Friday",
+  "packageRules": [
+    {
+      "automerge": true,
+      "automergeType": "branch",
+      "matchLanguages": ["js"],
+      "requiredStatusChecks": null
+    }
+  ]
+}

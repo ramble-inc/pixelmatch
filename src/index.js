@@ -1,0 +1,1 @@
+require('pixelmatch/bin/pixelmatch')

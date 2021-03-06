@@ -1,0 +1,10 @@
+{
+  "github": {
+    "release": true,
+    "assets": ["Sources/pixelmatch/pixelmatch"]
+  },
+  "npm": {
+    "publish": false,
+    "skipChecks": true
+  }
+}
