@@ -19,7 +19,7 @@ dependencies: [
 
 ### cURL
 ```sh
-curl -sS -o pixelmatch https://github.com/ramble-inc/pixelmatch/releases/download/5.2.1/pixelmatch
+curl -sS -o pixelmatch -L https://github.com/ramble-inc/pixelmatch/releases/download/5.2.1/pixelmatch
 ```
 
 ## Usage
