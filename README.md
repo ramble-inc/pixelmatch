@@ -4,11 +4,6 @@ A single executable [pixelmatch](https://github.com/mapbox/pixelmatch) for Swift
 
 ## Installation
 
-### [Mint](https://github.com/yonaskolb/mint)
-```sh
-mint install ramble-inc/pixelmatch
-```
-
 ### Swift Package Manager
 ```swift
 dependencies: [
